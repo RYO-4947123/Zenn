@@ -1,0 +1,53 @@
+title: "リポジトリ（GitLab）入門"
+summary: "
+リポジトリって何？Gitってどうやって使うの？という超初心者向けにコマンドラインを使わずによく使う機能に絞って説明しています。
+本書の基礎知識があればGit及びGitLabを使用しているプロジェクトに参加した際に最低限の用語を理解しているためスムーズに作業に入れます。
+
+
+本書の真の目的は、ここで得た用語を足がかりに他の参考記事を検索してご自身で問題解決できるようになる事にあります。
+ですので網羅的な説明は行わず簡素な記述に留めている箇所もあります。
+
+
+この本でわかること
+
+・Sourcetreeを使用したGitの使い方（コマンドラインは一切使いません）
+
+・GitLabの使い方（イシューとマージリクエスト）
+
+・ブランチ戦略（Git-flow、GitHub-flow、GitLab-flow）
+"
+topics: ["Git", "GitLab", "Sourcetree"]
+published: true
+price: 0
+chapters:
+  - repository
+  - buildtool
+  - signup
+  - sourcetree
+  - sourcetree_install
+  - sourcetree_coop
+  - practice1
+  - practice1_newproject
+  - practice1_clone
+  - practice1_branch
+  - practice1_staging_commit
+  - practice1_push
+  - practice1_fetch
+  - practice1_merge
+  - practice1_checkout
+  - practice1_pull
+  - practice1_summary
+  - practice1_ex
+  - its
+  - its_issue
+  - its_milestone
+  - its_labels
+  - its_board
+  - mergerequest
+  - mergerequest_new
+  - mergerequest_draft
+  - branchstrategy
+  - branchstrategy_gitflow
+  - branchstrategy_githubflow
+  - branchstrategy_gitlabflow
+toc_depth: 2
